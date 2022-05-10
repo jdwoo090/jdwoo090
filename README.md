@@ -1,7 +1,7 @@
 - Hello, I’m Jackson Woodside (jdwoo)!
 - I’m interested in coding and have been learning/implementing code on my own and for school since elementary!
-- I’m currently learning Android for my school.
-- How to reach me: jdwoo090@learner.dvusd.org
+- My most recently learned language was Android (Kotlin).
+- Most of my repos are private.
 
 <!---
 jdwoo090/jdwoo090 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
